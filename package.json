@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/dwabe/26-5-chat-app#readme",
   "dependencies": {
+    "eslint": "^6.3.0",
+    "eslint-plugin-react": "^7.14.3",
     "express": "^4.17.1",
     "socket.io": "^2.2.0"
   }
